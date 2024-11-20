@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">navdrawerscratch</string>
+    <string name="open_nav">open navigation drawer</string>
+    <string name="close_nav">close navigation drawer</string>
+    <string name="section_one">Master fractions easily! From basics to advanced concepts, this tutorial simplifies fraction learning for all levels. Boost your confidence and conquer fractions today</string>
+    <string name="section_two">Master addition effortlessly! Dive into the world of adding numbers with this comprehensive guide. From simple sums to complex calculations, learn the fundamentals and become an addition expert!</string>
+    <string name="section_three">Unlock the basics of counting! Dive into number sequences and learn to count like a pro. From simple numbers to advanced concepts, master counting with ease!</string>
+    <string name="section_four">Discover the art of division! From basic division to complex problems, this guide breaks down the process step by step. Unlock the secrets of division and solve mathematical challenges with confidence!</string>
+    <string name="section_five">Unlock the power of quadratic equations! From understanding the basics to mastering complex solutions, this guide simplifies quadratic equations for learners at all levels. Dive in and conquer quadratic equations with ease!</string>
+    <string name="section_six">Boost your math skills with expert tips! From tackling tricky problems to mastering essential techniques, these tips will elevate your math game. Start applying these strategies today and watch your confidence soar.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
